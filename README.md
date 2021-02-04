@@ -1,2 +1,3 @@
 # Andrew Boyer's Github
-*this is a test*
+*check out my stuff*
+*fork any repo you want  and submit a pull request to contribute!*
