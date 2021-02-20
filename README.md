@@ -1,7 +1,5 @@
 ### Welcome to ...
 # Andrew Boyer's Github
-*fork any repo you want  and submit a pull request to contribute!*
-### Notable Projects:
-* [Reporty](https://github.com/asboyer2/reporty)
-* [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
-* [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
+*check out my stuff*</br>
+*fork any repo you want  and submit a pull request to contribute!*</br>
+*most repositories are used for storage, usually a readme will indicate if a repository is a legitamate project.*</br>
