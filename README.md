@@ -16,20 +16,23 @@
 ***
 ### Languages
 > experience is rated out of `* * * * * * * * * *` 
-#### Python ****
+#### Python `* * * * * * *` *competent*
 ```python
 print("Python")
 ```
-```java
+#### Bash `* * * * * * *` *competent*
+```bash
+echo Bash
+```
+#### Java `* * * * * *` *competent*
+```java 
 public class Main{
 	public static void main(String[] args) {
 		System.out.println("Java");
 	}
 }
 ```
-```bash
-echo Bash
-```
+#### Javascript `* * * * *` *intermediate*
 ```javascript
 console.log('Javascript');
 ```
