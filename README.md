@@ -1,10 +1,10 @@
-<div align="center">
+<div>
 <p align="center">
   <img src="https://github.com/asboyer2/asboyer2/blob/master/images/alt-logo.png?raw=true" alt="">
-  <h1>Andrew Boyer's Github</h1>
 </p>
 </div>
-
+ 
+# Andrew Boyer's Github
 > *fork any repo you want  and submit a pull request to contribute!*
 
 ***
