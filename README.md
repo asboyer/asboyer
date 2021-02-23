@@ -40,3 +40,13 @@ public class Main{
 ```javascript
 console.log('Javascript');
 ```
+#### C
+> ###### learning
+```C
+# include <stdio.h>
+int main()
+{
+	printf("C\n");
+	return 0;
+}
+```
