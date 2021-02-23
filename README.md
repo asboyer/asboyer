@@ -10,9 +10,9 @@
 * [Boyer (personal python library)](https://github.com/asboyer2/boyer)
 
 > #### More projects coming soon:
-> - Space Invaders **v2**
-> - *New* Reporty function
-> - RebootHacks **final**
+> - [ ] Space Invaders **v2**
+> - [ ]*New* Reporty function
+> - [ ]RebootHacks **final**
 
 ***
 ### Languages
@@ -22,12 +22,13 @@ print("Python")
 ```java
 public class Main{
 	public static void main(String[] args) {
-		System.out.println("Java")
+		System.out.println("Java");
 	}
 }
 ```
+```bash
+echo Bash
 ```
-
+```javascript
+console.log('Javascript');
 ```
-
-[//]: <> (This is a comment?)
