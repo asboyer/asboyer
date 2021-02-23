@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="https://github.com/asboyer2/asboyer2/blob/master/images/boyergif?raw=true" alt="" onerror=this.src="https://github.com/asboyer2/asboyer2/blob/master/images/boyer-logo.png?raw=true"/>
+  <img src="https://github.com/asboyer2/asboyer2/blob/master/images/boyer-logo.png?raw=true" alt="">
 </p>
 </div>
 
