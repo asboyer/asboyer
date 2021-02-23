@@ -1,6 +1,5 @@
-### Welcome to ...
 # Andrew Boyer's Github
-*fork any repo you want  and submit a pull request to contribute!*
+> *fork any repo you want  and submit a pull request to contribute!*
 
 ***
 ### Notable Projects:
@@ -16,7 +15,8 @@
 
 ***
 ### Languages
-####
+> experience is rated out of `* * * * * * * * * *` 
+#### Python ****
 ```python
 print("Python")
 ```
