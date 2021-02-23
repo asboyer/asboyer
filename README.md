@@ -8,11 +8,8 @@
 * [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
 * [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
 * [Boyer (personal python library)](https://github.com/asboyer2/boyer)
-
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
+		This is my code
+        
 
 > #### More projects coming soon:
 > - Space Invaders **v2**
