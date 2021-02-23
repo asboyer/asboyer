@@ -3,7 +3,7 @@
   <img src="https://github.com/asboyer2/asboyer2/blob/master/images/alt-logo.png?raw=true" alt="">
 </p>
 </div>
-<p align="justify">
+<p align="center">
   <h1>Andrew Boyer's Github</h1>
 </p>
 
