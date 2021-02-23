@@ -8,3 +8,6 @@
 * [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
 * [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
 * [Boyer (personal python library)](https://github.com/asboyer2/boyer)
+
+> "This is Andrew Boyer's Github"
+> - **Andrew Boyer**
