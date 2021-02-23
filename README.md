@@ -9,6 +9,11 @@
 * [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
 * [Boyer (personal python library)](https://github.com/asboyer2/boyer)
 
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
 > #### More projects coming soon:
 > - Space Invaders **v2**
 > - *New* Reporty function
