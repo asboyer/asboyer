@@ -11,11 +11,12 @@
 
 > #### More projects coming soon:
 > - [ ] Space Invaders **v2**
-> - [ ]*New* Reporty function
-> - [ ]RebootHacks **final**
+> - [ ] *New* Reporty function
+> - [ ] RebootHacks **final**
 
 ***
 ### Languages
+####
 ```python
 print("Python")
 ```
