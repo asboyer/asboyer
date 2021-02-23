@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <p align="center">
   <img src="https://github.com/asboyer2/asboyer2/blob/master/images/alt-logo.png?raw=true" alt="">
   <h1>Andrew Boyer's Github</h1>
