@@ -2,7 +2,7 @@
 > *fork any repo you want  and submit a pull request to contribute!*
 
 ***
-### Notable Projects:
+## Notable Projects:
 * [Reporty](https://github.com/asboyer2/reporty)
 * [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
 * [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
@@ -14,17 +14,20 @@
 > - [ ] RebootHacks **final**
 
 ***
-### Languages
-> experience is rated out of `* * * * * * * * * *` 
-#### Python `* * * * * * *` *competent*
+## Languages
+> languages I have experience with, or currently working with and learning
+#### Python
+> ###### competent
 ```python
 print("Python")
 ```
-#### Bash `* * * * * * *` *competent*
+#### Bash
+> ###### competent
 ```bash
 echo Bash
 ```
-#### Java `* * * * * *` *competent*
+#### Java
+> ###### competent
 ```java 
 public class Main{
 	public static void main(String[] args) {
@@ -32,7 +35,8 @@ public class Main{
 	}
 }
 ```
-#### Javascript `* * * * *` *intermediate*
+#### Javascript
+> ###### intermediate
 ```javascript
 console.log('Javascript');
 ```
