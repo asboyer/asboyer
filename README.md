@@ -1,3 +1,8 @@
+<div>
+<p align="center">
+  <img src="https://github.com/asboyer2/asboyer2/blob/master/images/boyer.gif?raw=true"/>
+</p>
+</div>
 # Andrew Boyer's Github
 > *fork any repo you want  and submit a pull request to contribute!*
 
