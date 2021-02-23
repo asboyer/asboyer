@@ -19,7 +19,7 @@
 > - [ ] *New* Reporty function
 > - [ ] RebootHacks **final**
 
-***
+<!-- ***
 ## Languages
 > languages I have experience with, or currently working with and learning
 #### Python
@@ -56,3 +56,4 @@ int main()
 	return 0;
 }
 ```
+ -->
