@@ -3,8 +3,10 @@
   <img src="https://github.com/asboyer2/asboyer2/blob/master/images/alt-logo.png?raw=true" alt="">
 </p>
 </div>
+<p align="justify">
+  <h1>Andrew Boyer's Github</h1>
+</p>
 
-# Andrew Boyer's Github
 > *fork any repo you want  and submit a pull request to contribute!*
 
 ***
