@@ -8,12 +8,26 @@
 * [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
 * [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
 * [Boyer (personal python library)](https://github.com/asboyer2/boyer)
-		
-		print("Hello")
-
-        
 
 > #### More projects coming soon:
 > - Space Invaders **v2**
 > - *New* Reporty function
 > - RebootHacks **final**
+
+***
+### Languages
+```python
+print("Python")
+```
+```java
+public class Main{
+	public static void main(String[] args) {
+		System.out.println("Java")
+	}
+}
+```
+```
+
+```
+
+[//]: <> (This is a comment?)
