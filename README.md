@@ -26,7 +26,7 @@
 <summary><b>Languages</b></summary>
 <br>
 
-> languages I have experience with, or currently working with and learning
+<!-- > languages I have experience with, or currently working with and learning -->
 
 <details>
 <summary><em>Python</em></summary>
