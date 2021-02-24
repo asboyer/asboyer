@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="https://github.com/asboyer2/asboyer2/blob/master/images/logo.png?raw=true" alt="">
+  <img src="https://github.com/asboyer2/asboyer2/blob/master/images/alt-logo.png?raw=true" alt="">
 </p>
 </div>
  
