@@ -11,7 +11,7 @@
 ## Notable Projects:
 * [Reporty](https://github.com/asboyer2/reporty)
 * [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
-* [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks)
+* [RebootHacks](https://github.com/Wayland-CS-Club/reboothacks-master)
 * [Boyer (personal python library)](https://github.com/asboyer2/boyer)
 
 > #### More projects coming soon:
