@@ -24,7 +24,7 @@
 ## About Me
 <details>
 <summary><b>Languages</b></summary>
-<br>
+<!-- <br> -->
 
 <!-- > languages I have experience with, or currently working with and learning -->
 
