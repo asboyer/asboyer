@@ -9,10 +9,10 @@
 
 ***
 ## Notable Projects:
-* [Reporty](https://pypi.org/project/reporty/) [*code*](https://github.com/asboyer2/reporty)
+* [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
 * [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
-* [RebootHacks](https://reboothacks.com) [*code*](https://github.com/Wayland-CS-Club/reboothacks-master)
-* [Boyer (personal python library)](https://pypi.org/project/boyer/) [*code*](https://github.com/asboyer2/boyer)
+* [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
+* [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
 > #### More projects coming soon:
 > - [x] Space Invaders **v2**
@@ -24,13 +24,20 @@
 ## About Me
 <details>
 <summary><b>Languages</b></summary>
+<br>
 
 > languages I have experience with, or currently working with and learning
-#### Python
+
+<details>
+<summary><em>Python</em></summary>
+
 > ###### competent
 ```python
 print("Python")
 ```
+
+</details>
+
 #### Bash
 > ###### competent
 ```bash
