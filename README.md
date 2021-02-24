@@ -28,6 +28,8 @@
 
 > languages I have experience with, or currently working with and learning
 
+<br>
+
 <details>
 <summary><em>Python</em></summary>
 
@@ -38,12 +40,19 @@ print("Python")
 
 </details>
 
-#### Bash
+<details>
+<summary><em>Bash</em></summary>
+
 > ###### competent
 ```bash
 echo Bash
 ```
-#### Java
+
+</details>
+
+<details>
+	<summary><em>Java</em></summary>
+
 > ###### competent
 ```java 
 public class Main{
@@ -52,12 +61,23 @@ public class Main{
 	}
 }
 ```
-#### Javascript
+
+</details>
+
+
+<details>
+	<summary><em>Javascript</em></summary>
+
 > ###### intermediate
 ```javascript
 console.log('Javascript');
 ```
-#### C
+
+</details>
+
+<details>
+	<summary><em>C</em></summary>
+
 > ###### learning
 ```C
 # include <stdio.h>
@@ -67,6 +87,11 @@ int main()
 	return 0;
 }
 ```
+
+
+</details>
+
+
 
 </details>
 
@@ -94,8 +119,8 @@ int main()
 <details>
 <summary><b>Github Statistics</b></summary>
 
-
-  <img align="left" alt="asboyer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=asboyer2&show_icons=true&hide_border=true&theme=dark" />
+  <br>
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=asboyer2&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
