@@ -19,8 +19,14 @@
 > - [ ] *New* Reporty function
 > - [ ] RebootHacks **final**
 
-<!-- ***
-## Languages
+***
+<details>
+<summary>
+		
+<h2>Languages</h2> 
+
+</summary>
+
 > languages I have experience with, or currently working with and learning
 #### Python
 > ###### competent
@@ -56,4 +62,5 @@ int main()
 	return 0;
 }
 ```
- -->
+
+</details>
