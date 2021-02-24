@@ -28,8 +28,6 @@
 
 > languages I have experience with, or currently working with and learning
 
-<br>
-
 <details>
 <summary><em>Python</em></summary>
 
@@ -91,7 +89,7 @@ int main()
 
 </details>
 
-
+***
 
 </details>
 
@@ -113,6 +111,8 @@ int main()
 
 #### theCoderSchool
 > More details coming soon
+
+***
 
 </details>
 
