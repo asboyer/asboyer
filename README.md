@@ -17,7 +17,8 @@
 > #### More projects coming soon:
 > - [x] Space Invaders **v2**
 > - [ ] *New* Reporty function
-> - [ ] RebootHacks **final**
+> - [x] RebootHacks **final**
+> - [ ] Goat Grade
 
 ***
 
