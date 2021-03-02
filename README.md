@@ -5,7 +5,7 @@
 </div>
  
 # Andrew Boyer's Github
-> *fork any repo you want  and submit a pull request to contribute!*
+> *feel free to submit a pull request to contribute*
 
 ***
 ## Notable Projects:
