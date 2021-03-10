@@ -5,7 +5,7 @@
 </div>
  
 # Andrew Boyer's Github
-> *fork any repo you want  and submit a pull request to contribute!*
+> *feel free to submit a pull request to contribute*
 
 ***
 ## Notable Projects:
@@ -17,7 +17,8 @@
 > #### More projects coming soon:
 > - [x] Space Invaders **v2**
 > - [ ] *New* Reporty function
-> - [ ] RebootHacks **final**
+> - [x] RebootHacks **final**
+> - [ ] Goat Grade
 
 ***
   <br>
