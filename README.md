@@ -24,7 +24,7 @@
   <br>
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&langs_count=12&layout=compact&theme=dark"
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&langs_count=12&theme=dark"
  alt=""/>
 </p>
 </div>
