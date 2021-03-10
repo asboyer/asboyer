@@ -20,7 +20,13 @@
 > - [ ] RebootHacks **final**
 
 ***
-
+  <br>
+<div>
+<p align="center">
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"
+ alt=""/>
+</p>
+</div>
   <br>
 <div>
 <p align="center">
