@@ -24,7 +24,7 @@
   <br>
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&langs_count=8&layout=compact&theme=dark&exclude_repo=eightball,web_bot,hello-world,farenheit_calc,time_conversion,in_hours,calc,guessing_game,python_problems,lister,madlib,names,og_cs_club_backup"
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&langs_count=8&layout=compact&theme=dark"
  alt=""/>
 </p>
 </div>
