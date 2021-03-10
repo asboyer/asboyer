@@ -31,6 +31,6 @@
   <br>
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=asboyer2&show_icons=true&hide_border=true&theme=dark" alt=""/>
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=asboyer2&show_icons=true&hide_border=false&theme=dark" alt=""/>
 </p>
 </div>
