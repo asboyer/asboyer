@@ -10,12 +10,12 @@
 ***
 ## Notable Projects:
 * [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
-* [Space Invaders](https://github.com/asboyer2/SpaceInvaders)
 * [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
+* [Space Invaders Clone](https://github.com/asboyer2/SpaceInvaders)
 * [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
 > #### More projects coming soon:
-> - [x] Space Invaders **v2**
+> - [x] Space Invaders Clone **v2**
 > - [ ] *New* Reporty function
 > - [x] RebootHacks **final**
 > - [ ] Goat Grade
