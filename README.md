@@ -24,13 +24,14 @@
   <br>
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asboyer2&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"
- alt=""/>
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt=""/>
 </p>
 </div>
   <br>
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade" alt=""/>
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asboyer2&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"
+ alt=""/>
 </p>
 </div>
+
