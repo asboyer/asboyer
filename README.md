@@ -21,7 +21,7 @@
 > - [ ] Goat Grade
 
 ***
-## My Github Stats:
+## My Stats:
   <br>
 <div>
 <p align="center">
