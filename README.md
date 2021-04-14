@@ -1,6 +1,8 @@
 <div>
 <p align="center">
-  <img src="https://github.com/asboyer2/asboyer2/blob/master/images/logo.png?raw=true" alt="">
+    <a href="https://andrewsboyer.com/">
+        <img src="https://github.com/asboyer2/asboyer2/blob/master/images/logo.png?raw=true" alt="">
+    </a>
 </p>
 </div>
  
