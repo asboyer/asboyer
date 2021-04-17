@@ -11,7 +11,7 @@
 
 ***
 ## Notable Projects:
-* [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
+* <a href="https://pypi.org/project/reporty/" style="color: #805AD5">Reporty</a> [*(code)*](https://github.com/asboyer2/reporty)
 * [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
 * [Personal Website and Blog](https://andrewsboyer.com/) [*(code)*](https://github.com/asboyer2/asboyer2.github.io)
 * [Space Invaders Clone](https://github.com/asboyer2/SpaceInvaders)
