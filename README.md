@@ -13,7 +13,7 @@
 ## Notable Projects:
 * [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
 * [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
-* [andrewsboyer.com (personal website and blog)](https://andrewsboyer.com/) [*(code)*](https://github.com/asboyer2/asboyer2.github.io)
+* [Personnal Website and Blog](https://andrewsboyer.com/) [*(code)*](https://github.com/asboyer2/asboyer2.github.io)
 * [Space Invaders Clone](https://github.com/asboyer2/SpaceInvaders)
 * [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
