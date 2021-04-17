@@ -5,10 +5,10 @@
     </a>
 </p>
 </div>
-<br>
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=goat-grade,andrewsboyer.com&langs_count=10" alt=""/>
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asboyer2&show_icons=true&icon_color=B6F29D&text_color=CACACA&title_color=B6F29D&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false"
+ alt=""/>
 </p>
 </div>
  
@@ -33,8 +33,6 @@
 ***
 <div>
 <p align="center">
-  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asboyer2&show_icons=true&icon_color=B6F29D&text_color=CACACA&title_color=B6F29D&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false"
- alt=""/>
+  <img align="center" alt="asboyer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=goat-grade,andrewsboyer.com&langs_count=10" alt=""/>
 </p>
 </div>
-
