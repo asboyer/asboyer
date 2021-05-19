@@ -27,7 +27,7 @@
 ***
 <div>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&layout=compact&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=goat-grade,andrewsboyer.com&langs_count=10" alt=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer2&layout=compact&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=goat-grade,andrewsboyer.com&langs_count=10&count_private=true" alt=""/>
 </p>
 </div>
   <br>
