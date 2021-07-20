@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-    <a href="https://andrewsboyer.com/" target="_blank" rel="noreferrer noopener">
+    <a href="https://asboyer.com" target="_blank" rel="noreferrer noopener">
         <img src="https://github.com/asboyer2/asboyer2/blob/master/images/logo.png?raw=true" alt="">
     </a>
 </p>
@@ -13,7 +13,7 @@
 ## Notable Projects:
 * [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
 * [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
-* [Personal Website and Blog](https://andrewsboyer.com/) [*(code)*](https://github.com/asboyer2/asboyer2.github.io)
+* [Personal Website and Blog](https://asboyer.com/) [*(code)*](https://github.com/asboyer/asboyer.com)
 * [Space Invaders Clone](https://github.com/asboyer2/SpaceInvaders)
 * [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
