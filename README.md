@@ -17,13 +17,6 @@
 * [Space Invaders Clone](https://github.com/asboyer2/SpaceInvaders)
 * [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
-> #### More projects coming soon:
-> - [ ] Space Invaders Clone **v2**
-> - [ ] Snake Game
-> - [ ] *New* Reporty function
-> - [x] RebootHacks **final**
-> - [ ] Goat Grade **final**
-
 ***
 <div>
 <p align="center">
