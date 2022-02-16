@@ -20,7 +20,7 @@
 ***
 <div>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer&layout=compact&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=asboyer.com,asboyer-archive,goat-grade,andrewsboyer.com,APCS_A,q1hacs&langs_count=10&count_private=true" alt=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer&layout=compact&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=asboyer.com,asboyer-archive,goat-grade,andrewsboyer.com,APCS_A,boyers_beats&langs_count=10&count_private=true" alt=""/>
 </p>
 </div>
   <br>
