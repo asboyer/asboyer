@@ -18,7 +18,7 @@
 * [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
 ***
-<div>
+<!-- <div>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer&layout=compact&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=asboyer.com,asboyer-archive,goat-grade,andrewsboyer.com,APCS_A,boyers_beats,goat_grade_all_time&langs_count=10&count_private=true" alt=""/>
 </p>
@@ -28,5 +28,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asboyer&show_icons=true&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=false" alt=""/>
 </p>
-</div>
+</div> -->
 
