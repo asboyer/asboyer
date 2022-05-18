@@ -10,14 +10,14 @@
 > *feel free to submit a pull request to contribute*
 
 ***
-## Notable Projects:
+<!-- ## Notable Projects:
 * [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
 * [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
 * [Personal Website and Blog](https://asboyer.com/) [*(code)*](https://github.com/asboyer/asboyer.com)
 * [Space Invaders Clone](https://github.com/asboyer2/SpaceInvaders)
 * [Boyer (personal python library)](https://pypi.org/project/boyer/) [*(code)*](https://github.com/asboyer2/boyer)
 
-***
+*** -->
 <!-- <div>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asboyer&layout=compact&icon_color=B6F29D&text_color=718096&bg_color=ffffff00&hide_border=false&exclude_repo=asboyer.com,asboyer-archive,goat-grade,andrewsboyer.com,APCS_A,boyers_beats,goat_grade_all_time&langs_count=10&count_private=true" alt=""/>
