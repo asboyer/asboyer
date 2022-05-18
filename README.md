@@ -9,7 +9,7 @@
 # Andrew Boyer's Github
 > *feel free to submit a pull request to contribute*
  -->
-***
+<!-- *** -->
 <!-- ## Notable Projects:
 * [Reporty](https://pypi.org/project/reporty/) [*(code)*](https://github.com/asboyer2/reporty)
 * [RebootHacks](https://reboothacks.com) [*(code)*](https://github.com/Wayland-CS-Club/reboothacks-master)
